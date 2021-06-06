@@ -156,7 +156,7 @@ this.setState(prevState => {
 });
 ```
 
-#### Declare a new state variable using State Hook
+### Declare a new state variable using State Hook
 	`const [|, set |] = useState();`
 	Tab key applies CamelCase to function [count, setCount]
 
