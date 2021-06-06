@@ -3,7 +3,6 @@
 
 ### Import React
 ```javascript
-Import React
 import React from 'react';
 ```
 
