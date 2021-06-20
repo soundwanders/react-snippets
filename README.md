@@ -1,4 +1,4 @@
-## JavaScript React Concepts & Syntax
+## JavaScript React Snippets
 
 
 ### Import React
